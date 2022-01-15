@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name FootprintAmpli)(type KiCad)(uri C:/Users/gonza/Documents/GitHub/Torreta-anti-drones/pcb/FootprintAmpli)(options "")(descr ""))
+  (lib (name HuellaCasera)(type KiCad)(uri C:/Users/gonza/Documents/GitHub/Torreta-anti-drones/pcb/HuellaCasera.pretty)(options "")(descr ""))
+)
