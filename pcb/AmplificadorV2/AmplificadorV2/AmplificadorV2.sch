@@ -350,8 +350,6 @@ $EndComp
 Wire Wire Line
 	8550 6000 8550 5550
 Wire Wire Line
-	8050 5550 7950 5550
-Wire Wire Line
 	6450 5550 7250 5550
 Connection ~ 7250 5550
 Wire Wire Line
@@ -640,4 +638,8 @@ Text GLabel 8400 4900 1    50   Input ~ 0
 Rfout
 Text GLabel 7000 4900 1    50   Input ~ 0
 outAmpli
+Wire Wire Line
+	7950 5550 8550 5550
+Text GLabel 8050 4000 1    50   Input ~ 0
+condensador
 $EndSCHEMATC

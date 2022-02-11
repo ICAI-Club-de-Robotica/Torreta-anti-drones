@@ -634,4 +634,10 @@ $EndComp
 Wire Wire Line
 	7800 4000 8100 4000
 Connection ~ 7800 4000
+Text GLabel 3850 4850 1    50   Input ~ 0
+Rfin
+Text GLabel 8400 4900 1    50   Input ~ 0
+Rfout
+Text GLabel 7000 4900 1    50   Input ~ 0
+outAmpli
 $EndSCHEMATC
